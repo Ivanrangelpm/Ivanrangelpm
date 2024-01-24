@@ -1,7 +1,7 @@
 
 ### Prazer, me chamo Ivan.
 
-Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FIAP
+Tenho 19 anos e sou estudante de Ciência da Computação na SPTECH
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanrpm/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://matias.ma/nsfw)
