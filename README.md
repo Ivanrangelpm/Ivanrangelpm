@@ -5,9 +5,9 @@ Tenho 19 anos e sou estudante de Ciência da Computação na SPTECH
 
 Esse é o meu portifolio: https://ivan-portifolio.vercel.app/
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanrpm/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ivanrpm/](https://youtu.be/dQw4w9WgXcQ?si=hhO7LXvZL4ntQ--i))
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://matias.ma/nsfw)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivan.murraysp/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/ivan.murraysp/](https://youtu.be/dQw4w9WgXcQ?si=hhO7LXvZL4ntQ--i))
 
 ![Ivan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanrangelpm&show_icons=true&theme=radical)
 
